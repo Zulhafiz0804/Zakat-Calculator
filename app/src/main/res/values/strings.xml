@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Zakat Calculator</string>
+    <string name="calculate_zakat">Calculate Zakat</string>
+    <string name="gold_weight_hint">Gold Weight (grams)</string>
+    <string name="gold_value_hint">Gold Value (per gram)</string>
+    <string name="gold_type">Gold Type</string>
+    <string name="keep">Keep</string>
+    <string name="wear">Wear</string>
+    <string name="about">About</string>
+    <string name="visit_github">Visit GitHub Repository</string>
+    <string name="share_text">Check out my Zakat Calculator App!</string>
+    <string name="total_gold_value">Total Gold Value: RM%.2f</string>
+    <string name="zakat_payable_value">Zakat Payable Value: RM%.2f</string>
+    <string name="total_zakat">Total Zakat: RM%.2f</string>
+    <string name="share_results">Share Results</string>
+
+    <!-- Add this array -->
+    <string-array name="gold_type_array">
+        <item>Keep</item>
+        <item>Wear</item>
+    </string-array>
+</resources>

@@ -1,0 +1,15 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/menuHome"
+        android:title="Home"
+        />
+    <item
+        android:id="@+id/menuAbout"
+        android:title="About"
+        />
+    <item
+        android:id="@+id/menuInstruction"
+        android:title="Instruction"
+        />
+</menu>
