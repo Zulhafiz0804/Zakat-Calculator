@@ -31,7 +31,7 @@ public class AboutActivity extends AppCompatActivity {
         tvCopyright.setText("© 2024 Muhammad Zulhafiz. All rights reserved.");
         tvGithubLink.setText("Visit GitHub Repository");
         tvGithubLink.setOnClickListener(v -> {
-            String url = "https://github.com/Zulhafiz0804/Zakat-Calculator";
+            String url = "https://github.com/Zulhafiz0804/Zakat-Calculator.git";
             startActivity(new Intent(Intent.ACTION_VIEW, Uri.parse(url)));
         });
     }
